@@ -4,10 +4,10 @@ import numpy as np
 def calculate_monthly_payment(principal, annual_rate, years):
     """
     Calculate the monthly payment for a student loan.
-    :param principal: Loan amount
-    :param annual_rate: Annual interest rate (in percentage)
-    :param years: Loan repayment period in years
-    :return: Monthly payment and total repayment amount
+    param principal: Loan amount
+    param annual_rate: Annual interest rate (in percentage)
+    param years: Loan repayment period in years
+    return: Monthly payment and total repayment amount
     """
     monthly_rate = annual_rate / 100 / 12
     n_payments = years * 12
