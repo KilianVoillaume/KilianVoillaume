@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KilianVoillaume
-- 👀 I am currently studying at HEC Paris, planning to specialize in finance. I would like to work in market finance, as a trader or quant.
+- 👀 I am currently studying at HEC Paris in finance, with a background in engineering (electrical and control). I would like to work in market finance, as a trader or quant.
 - ⚡ Fun fact: I love pizza, but I hate tomatos...
 
 <!---
