@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Kilian Voillaume
 
-Welcome to my GitHub!
 I'm currently a **Finance student at HEC Paris**, with an academic background in **Control & Electrical Engineering** from **CentraleSupélec**.
 
 ---
