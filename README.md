@@ -1,23 +1,54 @@
 # 👋 Hi, I’m Kilian Voillaume
 
-I'm currently a **Finance student at HEC Paris**, with an academic background in **Control & Electrical Engineering** from **CentraleSupélec**.
+Welcome to my GitHub profile. I’m **Kilian Voillaume**, a finance-focused engineer currently studying at **HEC Paris**, with a prior academic background in control and electrical engineering from **CentraleSupélec** and **ESME Sudria**. This space is a curated portfolio of self-initiated projects at the intersection of **financial theory, quantitative methods**, and **practical market applications**.
+
+My objective is clear: to demonstrate technical depth and applied thinking across core domains relevant to **Sales & Trading**, including **derivatives pricing**, **volatility modelling**, **Monte Carlo risk analysis**, and **market microstructure**. These projects reflect how I think about markets — analytically, probabilistically, and with attention to detail.
 
 ---
 
-## 🔧 What I’m Working On
+## 🔎 Featured Repositories
 
-Right now, I’m building out my `financial-project` repository — a curated collection of **Python-based tools and notebooks** focused on:
+### [Financial-Projects](https://github.com/KilianVoillaume/Financial-Projects)
+A collection of advanced, hands-on Python implementations covering:
+- **Monte Carlo simulations** for derivatives pricing
+- **VaR & CVaR** models for portfolio risk
+- **Variance reduction techniques** for pricing efficiency
+- Tools to help price, stress-test, and visualise financial instruments
 
-- Derivatives pricing  
-- Volatility modelling  
-- Monte Carlo simulations  
-- Portfolio risk management  
-- Market microstructure mechanics  
+### [Financial Market Uncovered — Articles](https://github.com/KilianVoillaume/Financial_Market_Uncovered_Articles)
+A series of educational and technically precise articles exploring:
+- Options Greeks, implied volatility surfaces, and exotic payoffs
+- Credit risk, structured products, jump diffusion, and stochastic volatility models
+- Execution algorithms and market microstructure
+> Each article bridges theory with practice — ideal for junior traders, quants, and curious market participants.
 
-All the code and analyses you’ll find here have been developed independently as part of my effort to apply advanced finance theory through self-driven technical projects.
+### [Greeks Streamlit App](https://github.com/KilianVoillaume/Greeks_Streamlit_APP)
+An interactive **Streamlit dashboard** to explore and visualise:
+- First- and second-order Greeks for vanilla options
+- Sensitivity analysis across parameters (vol, time, rates, etc.)
+- Real-time plotting of how Greeks evolve with moneyness and time to expiry
+> Designed for intuitive understanding and faster option risk interpretation.
 
 ---
 
-## 📫 Let’s Connect
+## 🧠 Tools, Models & Technologies
 
-If you'd like to get in touch or collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kilian-voillaume/). I’m always open to discussing finance, technology, or new ideas.
+This profile reflects my ability to **engineer financial logic into functional code**, using:
+- **Python** (NumPy, pandas, SciPy, matplotlib, Plotly)
+- **Jupyter Notebooks** for modelling and simulation
+- **Streamlit** for interactive dashboards and deployment
+- **Monte Carlo methods** for valuation and risk modelling
+- **Black-Scholes**, **Binomial Trees**, **Jump-Diffusion**, and **Stochastic Volatility (Heston)** models
+- Practical implementation of **VaR / CVaR**, hedging strategies, and **option Greeks analysis**
+
+---
+
+## 💼 Let's Connect
+
+I invite you to explore these projects — they reflect my way of thinking about markets, risk, and execution. 
+
+📩 Reach out on [LinkedIn](https://www.linkedin.com/in/kilian-voillaume/) or follow the repositories for updates.
+
+---
+
+**“Markets reward applied insight. This profile is where I build mine.”**
