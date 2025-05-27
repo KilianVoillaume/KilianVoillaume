@@ -18,14 +18,12 @@ A series of educational and technically precise articles exploring:
 - Options Greeks, implied volatility surfaces, and exotic payoffs
 - Credit risk, structured products, jump diffusion, and stochastic volatility models
 - Execution algorithms and market microstructure
-> Each article bridges theory with practice — ideal for junior traders, quants, and curious market participants.
 
 ### [Greeks Streamlit App](https://github.com/KilianVoillaume/Greeks_Streamlit_APP)
 An interactive **Streamlit dashboard** to explore and visualise:
 - First- and second-order Greeks for vanilla options
 - Sensitivity analysis across parameters (vol, time, rates, etc.)
 - Real-time plotting of how Greeks evolve with moneyness and time to expiry
-> Designed for intuitive understanding and faster option risk interpretation.
 
 ---
 
