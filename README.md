@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile. I’m **Kilian Voillaume**, a finance-focused engineer currently studying at **HEC Paris**, with a prior academic background in control and electrical engineering from **CentraleSupélec** and **ESME Sudria**. This space is a curated portfolio of self-initiated projects at the intersection of **financial theory, quantitative methods**, and **practical market applications**.
 
-My objective is clear: to demonstrate technical depth and applied thinking across core domains relevant to **Sales & Trading**, including **derivatives pricing**, **volatility modelling**, **Monte Carlo risk analysis**, and **market microstructure**. These projects reflect how I think about markets — analytically, probabilistically, and with attention to detail.
-
 ---
 
 ## 🔎 Featured Repositories
