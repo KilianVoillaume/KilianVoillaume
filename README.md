@@ -4,14 +4,11 @@ Welcome to my GitHub portfolio. I’m **Kilian Voillaume**, a finance-focused en
 
 This profile showcases **applied finance projects** I’ve built independently to bridge **theory and market practice** — with a focus on **derivatives pricing, hedging strategies, volatility modelling, and risk management**, implemented in Python and Streamlit.
 
-My aim: to demonstrate my ability to engineer financial logic into functional, intuitive tools and analyses relevant to **traders, quants, and risk managers**.
+My aim: to deepen my understanding of financial markets by translating theory into practice — building tools and analyses that help me (and others) explore, test, and internalise the mechanics of risk, pricing, and execution.
 
 ---
 
 ## 📂 Featured Repositories
-
-### [📊 Financial Ratios Streamlit App](./Financial_ratios_streamlit_app-main)
-An interactive dashboard to analyse **company financial ratios** for investment decisions. Helps investors visualise and interpret key metrics efficiently.  
 
 ### [🧪 Greeks Streamlit App](./Greeks_Streamlit_APP-main)
 An educational Streamlit dashboard that visualises how **option Greeks** evolve with changes in parameters — supporting traders in understanding and managing options risk.  
