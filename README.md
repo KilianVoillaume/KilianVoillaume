@@ -10,24 +10,24 @@ My aim: to deepen my understanding of financial markets by translating theory in
 
 ## 📂 Featured Repositories
 
-### [Greeks Streamlit App](./Greeks_Streamlit_APP-main)
+### [Greeks Streamlit App](https://github.com/KilianVoillaume/Greeks_Streamlit_APP)
 An educational Streamlit dashboard that visualises how **option Greeks** evolve with changes in parameters — supporting traders in understanding and managing options risk.  
 
-### [Financial Projects](./Financial-Projects-main)
+### [Financial Projects](https://github.com/KilianVoillaume/Financial-Projects)
 A set of **foundational Python projects**:
 - Monte Carlo simulations for pricing & risk
 - Greeks & sensitivity analysis
 - VaR & CVaR estimation
 - Option pricing models (BSM, Binomial Trees)
 
-### [Advanced Financial Projects](./Advanced-Financial-Projects-main)
+### [Advanced Financial Projects](https://github.com/KilianVoillaume/Advanced-Financial-Projects)
 More sophisticated implementations, including:
 - Equity Greeks Simulator: interactive hedging dashboard for equity options
 - Commodities Hedging Suite: risk management tools for Oil & Gas exposures
 - Stress-testing and scenario analysis for portfolios
 > This repository is a step forward in complexity & practicality vs. the Financial Projects repo.
 
-### [Financial Market Uncovered — Articles](./Financial_Market_Uncovered_Articles-main)
+### [Financial Market Uncovered — Articles](https://github.com/KilianVoillaume/Financial_Market_Uncovered_Articles)
 A series of **technical articles** explaining key topics in:
 - Options & exotics
 - Volatility surfaces & risk
