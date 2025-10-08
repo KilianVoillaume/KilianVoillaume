@@ -1,8 +1,8 @@
 # Kilian Voillaume — Advanced Financial Projects
 
-Welcome to my GitHub portfolio. I’m **Kilian Voillaume**, a finance-focused engineer and Master’s student at **HEC Paris**, combining a strong quantitative mindset with a passion for financial markets.  
+Welcome to my GitHub portfolio. I’m **Kilian Voillaume**, a finance-focused engineer and Master’s of finance student, combining a strong quantitative mindset with a passion for financial markets.  
 
-This profile showcases **applied finance projects** I’ve built independently to bridge **theory and market practice** — with a focus on **derivatives pricing, hedging strategies, volatility modelling, and risk management**, implemented in Python and Streamlit.
+This profile showcases **applied finance projects** I’ve built independently to bridge **theory and market practice**, with a focus on **derivatives pricing, hedging strategies, volatility modelling, and risk management**, implemented in Python and Streamlit.
 
 My aim: to deepen my understanding of financial markets by translating theory into practice — building tools and analyses that help me (and others) explore, test, and internalise the mechanics of risk, pricing, and execution.
 
