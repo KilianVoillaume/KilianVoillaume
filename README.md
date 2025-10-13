@@ -1,4 +1,4 @@
-# Kilian Voillaume — Advanced Financial Projects
+# Kilian Voillaume
 
 Welcome to my GitHub portfolio. I’m **Kilian Voillaume**, a finance-focused engineer and Master’s of finance student, combining a strong quantitative mindset with a passion for financial markets.  
 
